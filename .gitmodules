@@ -4,3 +4,6 @@
 [submodule "ProbeSwitch"]
 	path = ProbeSwitch
 	url = https://github.com/1csp2216/ProbeSwitch.git
+[submodule "dl350"]
+	path = dl350
+	url = https://github.com/9008090aa/dl350.git
