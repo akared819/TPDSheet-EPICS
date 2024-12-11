@@ -1,3 +1,6 @@
 [submodule "ICRampcontroller"]
 	path = ICRampcontroller
 	url = https://github.com/1csp3203/ICRampcontroller.git
+[submodule "ProbeSwitch"]
+	path = ProbeSwitch
+	url = https://github.com/1csp2216/ProbeSwitch.git
