@@ -1,0 +1,3 @@
+[submodule "ICRampcontroller"]
+	path = ICRampcontroller
+	url = https://github.com/1csp3203/ICRampcontroller.git
