@@ -10,3 +10,6 @@
 [submodule "StellarnetSpectrometer"]
 	path = StellarnetSpectrometer
 	url = https://github.com/1csp2216/StellarnetSpectrometer.git
+[submodule "6812B"]
+	path = 6812B
+	url = https://github.com/9008090aa/6812B.git
