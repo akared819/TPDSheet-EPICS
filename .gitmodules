@@ -7,3 +7,6 @@
 [submodule "dl350"]
 	path = dl350
 	url = https://github.com/9008090aa/dl350.git
+[submodule "StellarnetSpectrometer"]
+	path = StellarnetSpectrometer
+	url = https://github.com/1csp2216/StellarnetSpectrometer.git
