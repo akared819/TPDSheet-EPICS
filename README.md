@@ -1,2 +1,2 @@
 # TPDSheet-ECPIS
-ECPIS for TPDSheet
+ECPIS IOCs for TPDSheet
