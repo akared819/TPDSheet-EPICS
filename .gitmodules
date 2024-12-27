@@ -13,3 +13,6 @@
 [submodule "6812B"]
 	path = 6812B
 	url = https://github.com/9008090aa/6812B.git
+[submodule "Keysight34970A"]
+	path = Keysight34970A
+	url = https://github.com/akared819/Keysight34970A.git
